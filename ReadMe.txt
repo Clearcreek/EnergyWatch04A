@@ -1,0 +1,1 @@
+This is the smart home project that monitor the line voltage, load current. power consumption from a wall outlet where the device is pluged into.
