@@ -108,13 +108,13 @@
 *            Data Types
 ***************************************/
 
-#define Vrms_LSB        (1484u)   // 0.01484 V/LSB
-#define Vrms_DIVIDER    (1000u)   // Resulting calculated Vrms with 0.01V resolution
-#define Irms_LSB        (13730u)  // ??? (0.0006274 A/LSB)
-#define Irms_DIVIDER    (10000u)  // Resulting calculated Irms with 0.01A resolution
-#define POWER_LSB       (149u)    // 0.000149 W/LSB
+#define Vrms_LSB        (2411u)   // 0.02411 V/LSB
+#define Vrms_DIVIDER    (1000u)   // Resulting calculated Vrms with 0.1V resolution
+#define Irms_LSB        (547u)    // 0.000547 A/LSB)
+#define Irms_DIVIDER    (1000u)   // Resulting calculated Irms with 0.01A resolution
+#define POWER_LSB       (162u)    // 0.00016165 W/LSB
 #define POWER_DIVIDER   (10000u)  // Resulting the calculated power with 0.1W resolution
-#define ENERGY_LSB      (108u)    // 0.0000000108 Wh/LSB = 0.0389 mWs/LSB
+#define ENERGY_LSB      (154u)    // 0.0000000154 Wh/LSB = 0.0389 mWs/LSB
 #define ENERGY_DIVIDER  (100000000u)  // Resulting the calculated energy with 0.1Wh resolution
 #define THREASHOULD     (2147483647u)
 #define MAX_UINT32      (4294967296u)
