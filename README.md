@@ -1,1 +1,1 @@
-"# The home of gthe project EnergyWatch04A" 
+"Creation of the home for the project EnergyWatch04A" 
